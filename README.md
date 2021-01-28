@@ -29,22 +29,23 @@
 
 #### In-Class
    * Exercises:
-        * *Remote:* Conversation In (Re-)Name Only  
-        * *In-Person:* The Classroom
+        * Conversation In (Re-)Name Only  
         * _"It is important to me that..."_
    * [Overview of Syllabus](https://docs.google.com/document/d/1HUGW8AHLQWfe9PBG3U9xTQ8ag-Xrbw2YayktwWijf5s/edit?usp=sharing)
    * Tech Tutorials:
       * Hello glitch.com
-      * Hello node
-      * Hello express
+      * Hello node | [Code](https://glitch.com/edit/#!/my-noderoo?path=README.md%3A10%3A85)
+      * Hello express | [Code](https://glitch.com/edit/#!/my-expresseroo?path=README.md%3A13%3A0)
    * Restraint, Existence and The Absurd.
       * [Yiyun Li in conversation with Jean-Paul Sartre](https://docs.google.com/document/d/1M4PPFF57Hie8F_c1HsVxfMaDvZNuKZ8p-sFcrtzzcU8/edit?usp=sharing)
       * Comic Relief: Who's on First - Abbott & Costello: [Video](https://youtu.be/kTcRRaXV-fg?t=75), [Diagram](https://misscellania.blogspot.com/2019/05/diagram.html), [Transcript](https://genius.com/Abbott-and-costello-whos-on-first-annotated) | [Argument Clinic - Monty Python](https://www.dailymotion.com/video/x2hwqn9)
 
 #### Assignment: Make a web server.
-   * Read [Yiyun Li](https://www.newyorker.com/magazine/2020/11/16/the-ability-to-cry) | [Jean-Paul Sartre](https://docs.google.com/document/d/1wFMay3rvCCULGQVwIvn1wY9o6xBhnIv6mDU9_dZxTIk/edit?usp=sharing)
-   * Re-answer at least 3 of the yes/no questions in writing. Pick the 3 that are the most "more complicated than yes/no." Use the readings as input. Please complete by next Thursday 10AM Eastern.
-   * Take a sketch you created on p5 editor and put it on [glitch.com](https://glitch.com) by writing your own webserver and [post a link here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-1).
+   * Read [Yiyun Li](https://www.newyorker.com/magazine/2020/11/16/the-ability-to-cry) | [Jean-Paul Sartre](https://docs.google.com/document/d/1wFMay3rvCCULGQVwIvn1wY9o6xBhnIv6mDU9_dZxTIk/edit?usp=sharing) | [Yiyun Li in conversation with Jean-Paul Sartre](https://docs.google.com/document/d/1M4PPFF57Hie8F_c1HsVxfMaDvZNuKZ8p-sFcrtzzcU8/edit?usp=sharing)
+   * Re-answer at least 3 of the yes/no questions in writing. Pick the 3 that are the most "more complicated than yes/no." Use the readings as input.    
+      * Thursday Section 001: Please complete by next Thursday 10AM Eastern.
+      * Tuesday Section 002: Please complete by next Monday 5PM Eastern.
+   * Take a sketch you created on p5 editor and put it on [glitch.com](https://glitch.com) by writing your own web server and [post a link here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-1).
    * Additional Resources
       * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
       * [Dan Shiffman on Node](http://shiffman.net/a2z/server-node/)
