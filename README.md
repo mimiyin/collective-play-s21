@@ -1,5 +1,6 @@
-# Collective Play Spring 20 Syllabus
-   * Tuesdays 12:10PM - 3:05PM in Room ???
+# Collective Play Spring 21 Syllabus
+   * Section 001: Thursdays 2-5PM
+   * Section 002: Tuesdays 9:30AM-12:30PM
    * Mimi Yin, mimi.yin@nyu.edu
    * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
@@ -38,7 +39,7 @@
       * Hello express
    * Restraint, Existence and The Absurd.
       * [Yiyun Li in conversation with Jean-Paul Sartre](https://docs.google.com/document/d/1M4PPFF57Hie8F_c1HsVxfMaDvZNuKZ8p-sFcrtzzcU8/edit?usp=sharing)
-      * Comic Relief: Who's on First - Abbott & Costello: [Video](https://youtu.be/kTcRRaXV-fg?t=75), [Transcript](https://genius.com/Abbott-and-costello-whos-on-first-annotated) | [Argument Clinic - Monty Python](https://www.dailymotion.com/video/x2hwqn9)
+      * Comic Relief: Who's on First - Abbott & Costello: [Video](https://youtu.be/kTcRRaXV-fg?t=75), [Diagram](https://misscellania.blogspot.com/2019/05/diagram.html), [Transcript](https://genius.com/Abbott-and-costello-whos-on-first-annotated) | [Argument Clinic - Monty Python](https://www.dailymotion.com/video/x2hwqn9)
 
 #### Assignment: Make a web server.
    * Read [Yiyun Li](https://www.newyorker.com/magazine/2020/11/16/the-ability-to-cry) | [Jean-Paul Sartre](https://docs.google.com/document/d/1wFMay3rvCCULGQVwIvn1wY9o6xBhnIv6mDU9_dZxTIk/edit?usp=sharing)
@@ -62,6 +63,7 @@
       * Hello sockets
       * Identifying Inputs
          * Keeping track of inputs by id
+
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
      * [Socket.IO - Get Started](https://socket.io/get-started/)
