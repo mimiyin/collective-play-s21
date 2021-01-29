@@ -46,7 +46,9 @@
       * 001: Please complete by next Thursday 10AM Eastern.
       * 002: Please complete by next Monday 5PM Eastern.
    * Take a sketch you created on p5 editor and put it on [glitch.com](https://glitch.com) by writing your own web server and [post a link here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-1).
-   * Additional Resources
+   * Code Tutorials
+      * [Functions and `return`](https://www.youtube.com/watch?v=qRnUBiTJ66Y&ab_channel=TheCodingTrain)
+      * [Callback functions](https://www.youtube.com/watch?v=NcCEzzd9BGE&t=147s&ab_channel=TheCodingTrain)
       * [Beginner’s Guide to Node](https://glitch.com/~node-beginner) (more advanced topics)
       * [Dan Shiffman on Node](http://shiffman.net/a2z/server-node/)
 
