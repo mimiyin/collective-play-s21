@@ -41,7 +41,7 @@
       * Comic Relief: Who's on First - Abbott & Costello: [Video](https://youtu.be/kTcRRaXV-fg?t=75), [Diagram](https://misscellania.blogspot.com/2019/05/diagram.html), [Transcript](https://genius.com/Abbott-and-costello-whos-on-first-annotated) | [Argument Clinic - Monty Python](https://www.dailymotion.com/video/x2hwqn9)
 
 #### Assignment: Make a web server.
-   * Read [Yiyun Li](https://www.newyorker.com/magazine/2020/11/16/the-ability-to-cry) | [Jean-Paul Sartre](https://docs.google.com/document/d/1wFMay3rvCCULGQVwIvn1wY9o6xBhnIv6mDU9_dZxTIk/edit?usp=sharing) | [Yiyun Li in conversation with Jean-Paul Sartre](https://docs.google.com/document/d/1M4PPFF57Hie8F_c1HsVxfMaDvZNuKZ8p-sFcrtzzcU8/edit?usp=sharing)
+   * Read [Yiyun Li](https://www.newyorker.com/magazine/2020/11/16/the-ability-to-cry) | [Jean-Paul Sartre](https://docs.google.com/document/d/1wFMay3rvCCULGQVwIvn1wY9o6xBhnIv6mDU9_dZxTIk/edit?usp=sharing) | [Yiyun Li in conversation with Jean-Paul Sartre](https://docs.google.com/document/d/1M4PPFF57Hie8F_c1HsVxfMaDvZNuKZ8p-sFcrtzzcU8/edit?usp=sharing) Come to class with 3 excerpts from the reading that jumped out at you.
    * Re-answer at least 3 of the yes/no questions in writing. Pick the 3 that are the most "more complicated than yes/no." Use the readings as input. See email for link to form.  
       * 001: Please complete by next Thursday 10AM Eastern.
       * 002: Please complete by next Monday 5PM Eastern.
