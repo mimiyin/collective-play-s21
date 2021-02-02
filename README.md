@@ -29,7 +29,7 @@
 
 #### In-Class
    * Exercises:
-        * Conversation In (Re-)Name Only  | [Miro Board - 001](https://miro.com/app/board/o9J_lXPZwF0=/)
+        * Conversation In (Re-)Name Only  | [Miro Board - 001](https://miro.com/app/board/o9J_lXPZwF0=/) | [Miro Board - 002](https://miro.com/app/board/o9J_lW9Dq_E=/)
         * _"It is important to me that..."_
    * [Overview of Syllabus](https://docs.google.com/document/d/1HUGW8AHLQWfe9PBG3U9xTQ8ag-Xrbw2YayktwWijf5s/edit?usp=sharing)
    * Tech Tutorials:
