@@ -11,10 +11,10 @@ app.use(express.static('public'));
 
 
 // Create socket connection
-let io = require('socket.io').listen(server);
+let io = require('socket.io')(server);
 
 // Listen for individual clients to connect
-io.sockets.on('connection',
+io.on('connection',
 	// Callback function on connection
   // Comes back with a socket object
 	function (socket) {
@@ -33,7 +33,7 @@ io.sockets.on('connection',
       }
 
 			// Send it to all clients, including this one
-			io.sockets.emit('message', message);
+			io.emit('message', message);
 
       // Send it to all other clients, not including this one
       //socket.broadcast.emit('data', data);

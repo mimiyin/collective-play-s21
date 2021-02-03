@@ -64,8 +64,6 @@
    * Exercise: Follow the leader
    * Tech Tutorials
       * Hello sockets
-      * Identifying Inputs
-         * Keeping track of inputs by id
 
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
@@ -89,19 +87,14 @@
          * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
          * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
          * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
-   * More on Iowa
-      * [Inside Iowa Caucus: 2008](https://www.youtube.com/watch?v=Cnh-136QqO8)
-      * [A Very Long Night in Iowa: 2020](https://www.nytimes.com/2020/02/04/podcasts/the-daily/iowa-caucus-results.html)
-      * [Live Reporting of Iowa: 2020](https://www.nytimes.com/interactive/2020/02/03/us/elections/results-iowa-caucus-live-updates.html)
 
 #### Assignment: Identify Inputs
-  * Pick an input and send it over sockets. You can use _03_sockets-with-ids_ in _00_helloworld_ as a starting point. Put it on glitch.com and [post a link here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-2-hello-sockets)
-  * Diagram to the best of your ability _04_sockets-with-namespaces_ in _00_helloworld_. If that's easy, try _00_pollacky_ and _01_texteoke_ in _01_expression_. [See example here.](https://drive.google.com/file/d/1ch2KA9oANGOVkKgkRRWCb9FRMb71RS_0/view?usp=sharing)
+  * Pick an input and send it over sockets. [Post a link here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-2-hello-sockets)
+  * Diagram your homework assignment and post it to the homework page.
      * Include a server and some clients.
      * Label events with event names and draw and arrow to specify the direction of data flow.
      * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
-     * Bonus is to also diagram the logic in the code.
-     * Bring your diagrams to class and we will unpack it together.
+     * Bonus points if you also diagram the logic in your client sketch.
   * *Remote:*
      * Bring 5 objects that mean something to you. Bring 5 objects that don't mean anything to you.
   * *In-person:*
@@ -125,9 +118,9 @@
 #### Technical Topics
    * Review diagrams
    * Wrap-up _Hello Sockets_ topics.
+      * Tracking client data with socket ids
       * Namespacing to separate inputs and outputs
    * Phone sensors
-   * Real-time typing
 
 #### Resources:
    * [p5 rotationXY, deviceShaken() example](https://editor.p5js.org/mimiyin/sketches/-wm-luG0)

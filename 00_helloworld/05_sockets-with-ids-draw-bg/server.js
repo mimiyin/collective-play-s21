@@ -10,10 +10,10 @@ let server = require('http').createServer(app).listen(port, function () {
 app.use(express.static('public'));
 
 // Create socket connection
-let io = require('socket.io').listen(server);
+let io = require('socket.io')(server);
 
 // Listen for individual clients to connect
-io.sockets.on('connection',
+io.on('connection',
 	// Callback function on connection
   // Comes back with a socket object
 	function (socket) {
@@ -28,7 +28,7 @@ io.sockets.on('connection',
       }
 
       // Send it to all of the clients, including this one
-      io.sockets.emit('username', message);
+      io.emit('username', message);
     })
 
     // Listen for data from this client
@@ -42,7 +42,7 @@ io.sockets.on('connection',
       }
 
       // Send it to all of the clients, including this one
-			io.sockets.emit('message', message);
+			io.emit('message', message);
 		});
 
     // Listen for this client to disconnect
