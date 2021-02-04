@@ -93,6 +93,8 @@
 #### Assignment: Sending Inputs
    * [Post your assignments here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-2-hello-sockets)
       * Write a short blog post describing something you do that is absurd.
+         * 001: Please complete by next Thursday 10AM Eastern.
+         * 002: Please complete by next Monday 5PM Eastern.
       * Pick an input and send it over sockets.
       * Diagram your homework assignment.
          * Include a server and some clients.
