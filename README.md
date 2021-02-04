@@ -63,7 +63,9 @@
 #### In-Class
    * Exercise: Follow the leader
    * Tech Tutorials
-      * Hello sockets
+      * Review functions that return | [Code](https://editor.p5js.org/mimi/sketches/FPvY-10ji)
+      * Review callbacks | [Code](https://editor.p5js.org/mimi/sketches/rK7AN12vF)
+      * Hello sockets | [Code](https://glitch.com/edit/#!/my-sockeroo-server?path=server.js%3A1%3A0) | [Diagram](https://drive.google.com/file/d/1Fvg0CM91x-sSaA-MWgtwefeEyc6QGE6S/view?usp=sharing)
 
   * Additional Resources
      * [Websockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
@@ -90,13 +92,13 @@
 
 #### Assignment: Sending Inputs
    * [Post your assignments here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-2-hello-sockets)
-   * Write a short blog post describing something you do that is absurd.
-   * Pick an input and send it over sockets.
-   * Diagram your homework assignment and post it to the homework page.
-      * Include a server and some clients.
-      * Label events with event names and draw and arrow to specify the direction of data flow.
-      * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
-      * Bonus points if you also diagram the logic in your client sketch.
+      * Write a short blog post describing something you do that is absurd.
+      * Pick an input and send it over sockets.
+      * Diagram your homework assignment.
+         * Include a server and some clients.
+         * Label events with event names and draw and arrow to specify the direction of data flow.
+         * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
+         * Bonus points if you also diagram the logic in your client sketch.
    * *Remote:*
       * Bring 5 objects that mean something to you. Bring 5 objects that don't mean anything to you.
    * *In-person:*
