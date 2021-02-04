@@ -99,7 +99,7 @@
       * Diagram your homework assignment.
          * Include a server and some clients.
          * Label events with event names and draw and arrow to specify the direction of data flow.
-         * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
+         * Specify the data being sent with each named event.
          * Bonus points if you also diagram the logic in your client sketch.
    * *Remote:*
       * Bring 5 objects that mean something to you. Bring 5 objects that don't mean anything to you.
