@@ -61,7 +61,7 @@
    * What are web sockets? Why do we need them?
 
 #### In-Class
-   * Exercise: Follow the leader
+   * Exercise: Follow the leader | [Miro 001](https://miro.com/app/board/o9J_lVsnYvk=/)
    * Tech Tutorials
       * Review functions that return | [Code](https://editor.p5js.org/mimi/sketches/FPvY-10ji)
       * Review callbacks | [Code](https://editor.p5js.org/mimi/sketches/rK7AN12vF)
