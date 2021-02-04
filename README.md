@@ -88,18 +88,20 @@
          * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
          * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
 
-#### Assignment: Identify Inputs
-  * Pick an input and send it over sockets. [Post a link here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-2-hello-sockets)
-  * Diagram your homework assignment and post it to the homework page.
-     * Include a server and some clients.
-     * Label events with event names and draw and arrow to specify the direction of data flow.
-     * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
-     * Bonus points if you also diagram the logic in your client sketch.
-  * *Remote:*
-     * Bring 5 objects that mean something to you. Bring 5 objects that don't mean anything to you.
-  * *In-person:*
-     * Bring 5 things to draw with to the next class. Look through your garbage.
-     * Wear clothes you can get dirty...forever.
+#### Assignment: Sending Inputs
+   * [Post your assignments here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-2-hello-sockets)
+   * Write a short blog post describing something you do that is absurd.
+   * Pick an input and send it over sockets.
+   * Diagram your homework assignment and post it to the homework page.
+      * Include a server and some clients.
+      * Label events with event names and draw and arrow to specify the direction of data flow.
+      * Specify the data being sent with each event. (e.g. What would it look like if you console logged it?)
+      * Bonus points if you also diagram the logic in your client sketch.
+   * *Remote:*
+      * Bring 5 objects that mean something to you. Bring 5 objects that don't mean anything to you.
+   * *In-person:*
+      * Bring 5 things to draw with to the next class. Look through your garbage.
+      * Wear clothes you can get dirty...forever.
 
 ***
 
