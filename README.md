@@ -45,7 +45,7 @@
    * Re-answer at least 3 of the yes/no questions in writing. Pick the 3 that are the most "more complicated than yes/no." Use the readings as input. See email for link to form.  
       * 001: Please complete by next Thursday 10AM Eastern.
       * 002: Please complete by next Monday 5PM Eastern.
-   * Take a sketch you created on p5 editor and put it on [glitch.com](https://glitch.com) by writing your own web server and [post a link here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-1).
+   * Take a sketch you created on p5 editor and put it on [glitch.com](https://glitch.com) by writing your own web server and post a link here: [Section 001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---001#week-1) | [Section 002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-1-hello-web-server-hello-glitchcom)
    * Code Tutorials
       * [Functions and `return`](https://www.youtube.com/watch?v=qRnUBiTJ66Y&ab_channel=TheCodingTrain)
       * [Callback functions](https://www.youtube.com/watch?v=NcCEzzd9BGE&t=147s&ab_channel=TheCodingTrain)
@@ -63,7 +63,7 @@
 #### In-Class
    * Exercise: Follow the leader | [Miro 001](https://miro.com/app/board/o9J_lVsnYvk=/)
    * Tech Tutorials
-      * Review functions that return | [Code](https://editor.p5js.org/mimi/sketches/FPvY-10ji)
+      * Review functions that return | [lessThan()](https://editor.p5js.org/mimi/sketches/FPvY-10ji) | [sayHiTo()](https://editor.p5js.org/mimi/sketches/XPryoR0SM)
       * Review callbacks | [Code](https://editor.p5js.org/mimi/sketches/rK7AN12vF)
       * Hello sockets | [Code](https://glitch.com/edit/#!/my-sockeroo-server?path=server.js%3A1%3A0) | [Diagram](https://drive.google.com/file/d/1Fvg0CM91x-sSaA-MWgtwefeEyc6QGE6S/view?usp=sharing)
 
@@ -91,7 +91,7 @@
          * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
 
 #### Assignment: Sending Inputs
-   * [Post your assignments here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-2-hello-sockets)
+   * Post your assignments here: [Section 001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---001#week-2-hello-sockets) | [Section 002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---002#week-2-hello-sockets)
       * Write a short blog post describing something you do that is absurd.
          * 001: Please complete by next Thursday 10AM Eastern.
          * 002: Please complete by next Monday 5PM Eastern.
@@ -118,14 +118,12 @@
    * How do we maximize creative collisions in collaboration?
 
 #### In-Class
-   * Collective persona building.
-   * Collective drawing.
+   * *Remote*Collective persona building.
+   * *In-person* Collective drawing.
 
 #### Technical Topics
    * Review diagrams
-   * Wrap-up _Hello Sockets_ topics.
-      * Tracking client data with socket ids
-      * Namespacing to separate inputs and outputs
+   * Tracking client data with socket ids
    * Phone sensors
 
 #### Resources:
