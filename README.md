@@ -1,8 +1,11 @@
 # Collective Play Spring 21 Syllabus
-   * Section 001: Thursdays 2-5PM
-   * Section 002: Tuesdays 9:30AM-12:30PM
+   * Section 001: Thursdays 2-5PM Eastern @ 370 Jay Street
+   * Section 002: Tuesdays 9:30AM-12:30PM Eastern on Zoom
    * Mimi Yin, mimi.yin@nyu.edu
    * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
+   * Help Sessions
+      * Schuyler: Tuesdays 1-3PM Eastern (Zoom link in email.)
+      * Zeyao: Thursdays 7-9PM Eastern (Zoom link in email.)
 
 ### [See course description below.](https://github.com/mimiyin/collective-play-f21#course-description)
 
