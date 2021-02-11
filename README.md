@@ -114,11 +114,10 @@
 
 # Design Strategy 1: Creative Collisions
 
-## Week 3: Copy, Compromise, Collide or Ignore?
+## Week 3: Collide to Connect
 
 #### Questions
    * How do we find meaning as a group?
-   * How do we maximize creative collisions in collaboration?
 
 #### In-Class
    * *Remote*Collective persona building.
