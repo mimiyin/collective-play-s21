@@ -127,16 +127,17 @@
    * Phone sensors
 
 #### Resources:
-   * [p5 rotationXY, deviceShaken() example](https://editor.p5js.org/mimiyin/sketches/-wm-luG0)
+   * [p5 rotationXY example](https://editor.p5js.org/mimiyin/sketches/-wm-luG0)
    * [p5 keyTyped() example](https://editor.p5js.org/mimiyin/sketches/s93FslWg)
    * Install Sensor Kinetics: [iOS](https://itunes.apple.com/us/app/sensor-kinetics/id579040333?mt=8) | [Android](https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en_US)
    * [Debugging iOS on your laptop](https://raygun.com/blog/debug-javascript-mobile-safari/)
    * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 
 #### Assignment: Creative Collisions
-   * Inspiration: [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
-   * Create a 5 minute creative collision for a group of 4+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s20/wiki/Study-No.-1:-Creative-Collisions)
-   * [Post a link to your project here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-3-creative-collisions)
+   * Literal collision: [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
+   * Create a 5 minute creative collision for a group of 4+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s21/wiki/Study-No.-1:-Creative-Collisions)
+   * Post a link to your project: [Section 001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---001) | [Section 002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---002)
+   * [Review Object Literals](https://www.youtube.com/watch?v=-e5h4IGKZRY&ab_channel=TheCodingTrain)   
 
 ***
 
