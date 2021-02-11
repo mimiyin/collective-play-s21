@@ -126,7 +126,7 @@
 
 #### Technical Topics
    * Review diagrams
-   * Tracking client data with socket ids
+   * Tracking client data with socket ids | [Code](https://glitch.com/edit/#!/hello-sockets-with-ids?path=README.md%3A3%3A54)
    * Phone sensors
 
 #### Resources:
@@ -137,8 +137,12 @@
    * [Debugging Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 
 #### Assignment: Creative Collisions
-   * Literal collision: [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
-   * Create a 5 minute creative collision for a group of 4+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s21/wiki/Study-No.-1:-Creative-Collisions)
+   * Watch this literal collision: [Whose Line Is It Anyway?](https://www.youtube.com/watch?v=BhQXL3V2Lmk&feature=youtu.be&t=20)
+   * Create a collective drawing app that uses the phone's rotation data by combining these 2 examples:
+      * [Socket Server with Ids](https://glitch.com/edit/#!/hello-sockets-with-ids?path=README.md%3A3%3A54)
+      * [p5 rotationXY example](https://editor.p5js.org/mimiyin/sketches/-wm-luG0)
+      * Diagram the code.
+   * Create a draft of a 5 minute creative collision for a group of 3+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s21/wiki/Study-No.-1:-Creative-Collision)
    * Post a link to your project: [Section 001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---001) | [Section 002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---002)
    * [Review Object Literals](https://www.youtube.com/watch?v=-e5h4IGKZRY&ab_channel=TheCodingTrain)   
 
