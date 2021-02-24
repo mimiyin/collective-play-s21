@@ -45,6 +45,7 @@ io.on('connection',
     // Listen for this client to disconnect
 		socket.on('disconnect', function() {
 			console.log("Client has disconnected " + socket.id);
+      io.emit('disconnected', socket.id);
 		});
 	}
 );

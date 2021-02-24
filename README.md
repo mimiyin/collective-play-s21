@@ -148,8 +148,13 @@
 ***
 
 ## Week 4: Workshop Creative Collisions Draft
-   * Workshop draft of Creative Collisions
-   * Practice diagramming
+   * Workshop draft of Creative Collisions: [Section 001]() | [Section 002](https://docs.google.com/document/d/1c4S_zyh20F_Bfdt1rh2pw_nZk_KJULjvJb83C9QCPZY/edit)
+   * Debugging mobile devices: [iOS](https://raygun.com/blog/debug-javascript-mobile-safari/) | [Android](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
+   * Hello Namespacing | [Code](https://glitch.com/edit/#!/hello-namespaces?path=README.md%3A1%3A0) | [Diagram](https://drive.google.com/file/d/1KyFxjr7iWsybYu2No9Kda_ZLmGsKhkTH/view?usp=sharing)
+
+#### Assignment: Creative Collisions
+   * Finalize your 5 minute creative collision for a group of 3+ people with sockets. [More details here...](https://github.com/mimiyin/collective-play-s21/wiki/Study-No.-1:-Creative-Collision)
+   * Post the edit link to your project: [Section 001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-4-creative-collisions-play-test) | [Section 002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-4-creative-collisions-play-test)
 
 ***
 
