@@ -4,8 +4,8 @@
    * Mimi Yin, mimi.yin@nyu.edu
    * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
    * Help Sessions
-      * Schuyler: Tuesdays 1-3PM Eastern (Zoom link in email.)
-      * Zeyao: Thursdays 7-9PM Eastern (Zoom link in email.)
+      * Schuyler: Tuesdays 1-3PM Eastern [Book Here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdGbXZ3bU1ESW5qfGRlZmF1bHR8ZDdjNWI2OGJiMDJkOWY4MTgwYmYwMGQ2NmQwYjBhMDA)
+      * Zeyao: Thursdays 7-9PM Eastern [Book Here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJrYkROMjZpSUZEfGRlZmF1bHR8MGI2MTJmODcyZDY2MDM0MzgxYzRhODMwZmI1Nzk1NmQ)
 
 ### [See course description below.](https://github.com/mimiyin/collective-play-f21#course-description)
 
