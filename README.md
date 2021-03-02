@@ -160,18 +160,22 @@
 
 ## Week 5: Play-test Creative Collisions Assignment
 
+   * [002 Miro](https://miro.com/app/board/o9J_lRpFHIw=/)
+   * [001 Miro](https://miro.com/app/board/o9J_lR0vTcE=/)
+
 #### Preview Partnering
    * *Remote:* Mirror, Mirror
    * *In-Person:* Standing up together
 
 #### Assignment:
+   * Clean up your Creative Collisions Code
    * Mini-coding Assignment: Take one of your sketches and re-code it with namespaces. Separate the input from the output or create a conductor client that cues and controls the input clients.
    * Before you start, listen / watch these:
       * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
       * [Salvatore and Viktoria](https://www.youtube.com/watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
       * [Entanglements](https://www.npr.org/programs/invisibilia/382451600/entanglement)
 watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
-   * *Remote:* Choreograph a 3-minute mirror duet to perform in class next week.
+   * *Remote:* (Deferred - We will do this in class.) Choreograph a 3-minute mirror duet to perform in class next week.
    * *In-Person:* Practice walking around together with your partner without talking or gesturing.
 
 ***
