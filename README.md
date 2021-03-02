@@ -165,11 +165,12 @@
    * *In-Person:* Standing up together
 
 #### Assignment:
+   * Mini-coding Assignment: Take one of your sketches and re-code it with namespaces. Separate the input from the output or create a conductor client that cues and controls the input clients.
    * Before you start, listen / watch these:
-      * [Salvatore and Viktoria](https://www.youtube.com/)
+      * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
+      * [Salvatore and Viktoria](https://www.youtube.com/watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
       * [Entanglements](https://www.npr.org/programs/invisibilia/382451600/entanglement)
 watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
-      * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
    * *Remote:* Choreograph a 3-minute mirror duet to perform in class next week.
    * *In-Person:* Practice walking around together with your partner without talking or gesturing.
 
