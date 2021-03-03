@@ -174,7 +174,6 @@
       * [Speaking in One Voice](https://youtu.be/hoTAziyhO7s?t=100)
       * [Salvatore and Viktoria](https://www.youtube.com/watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
       * [Entanglements](https://www.npr.org/programs/invisibilia/382451600/entanglement)
-watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
    * *Remote:* (Deferred - We will do this in class.) Choreograph a 3-minute mirror duet to perform in class next week.
    * *In-Person:* Practice walking around together with your partner without talking or gesturing.
 
