@@ -182,7 +182,7 @@ watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
 
 # Design Strategy 2: Partnering
 
-## Week 5: Influence or Instruction?
+## Week 6: Influence or Instruction?
 
 #### Question(s)
    * Is it possible to lead without leading? Follow without following?
