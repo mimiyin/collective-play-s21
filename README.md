@@ -185,7 +185,8 @@
 
 #### In-Class
    * *Remote:*
-      * Tell me a story...
+      * Mirror Mirror
+      * [Miro](https://miro.com/app/board/o9J_lQDSoGo=/)
    * *In-Person:*
       * Human Ouija Board
 
@@ -194,10 +195,11 @@
    * *In-Person:* Human Ouija
 
 #### Assignment: Partnering
-   * In groups of 2: You are responding to a call to create dating experiences where couples can test how well they can communicate without using words or symbolic gestures. Is the other person a good "listener"? Do they give you room to lead? Or conversely, are they too timid and always waiting for you to take the lead? [Inspiration](https://www.newyorker.com/magazine/2019/10/07/are-you-on-the-apps)
-   * Pay special attention to the physical set-up of your interaction. How will people communicate if not through words and gestures? (e.g. Direct contact? Contact through a 3rd object? Eyes? Sound? Extra-Sensory-Perception?)
-   * [Questions to consider.](https://github.com/mimiyin/collective-play-s20/wiki/Pairs-Assignment-Guidelines)
-   * Include a diagram of your code and instructions for the experience. [Post a link to your project here](https://github.com/mimiyin/collective-play-s21/wiki/Assignments#week-5-pairs)
+   * In groups of 2: Create an experience for 2 people where they can connect through reticence, through intentional listening, through following rather than leading. Do you ever get to a point where you don't know who's leading and who's following?
+      * [Questions to consider.](https://github.com/mimiyin/collective-play-s20/wiki/Pairs-Assignment-Guidelines)
+      * WebRTC Mirroring Example: [Code](https://editor.p5js.org/mimi/sketches/3rPfITEhi) | [Documentation](https://github.com/vanevery/p5LiveMedia)
+      * Explore the phone sensors. [Scroll down to Events](https://p5js.org/reference/)
+   * Post a link to your project here: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-6-pairs) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-6-pairs)
 
 
 ***

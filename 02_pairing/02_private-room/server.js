@@ -10,7 +10,7 @@ let server = require('http').createServer(app).listen(port, function () {
 app.use(express.static('public'));
 
 // Create socket connection
-let io = require('socket.io').listen(server);
+let io = require('socket.io')(server);
 // Get the array of rooms
 let rooms = io.sockets.adapter.rooms;
 let roomNum = 0;
