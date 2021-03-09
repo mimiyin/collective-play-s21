@@ -184,6 +184,8 @@
 
 
 #### In-Class
+   * [Speak in 1 Voice](https://www.youtube.com/watch?t=100&v=hoTAziyhO7s&feature=youtu.be&ab_channel=RomanImprovGames)
+   * [Salvatore and Viktoria](https://www.youtube.com/watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
    * *Remote:*
       * Mirror Mirror
       * [Miro](https://miro.com/app/board/o9J_lQDSoGo=/)
@@ -196,7 +198,8 @@
 
 #### Assignment: Partnering
    * In groups of 2: Create an experience for 2 people where they can connect through reticence, through intentional listening, through following rather than leading. Do you ever get to a point where you don't know who's leading and who's following?
-      * [Questions to consider.](https://github.com/mimiyin/collective-play-s20/wiki/Pairs-Assignment-Guidelines)
+      * [Questions to consider when designing your interaction.](https://github.com/mimiyin/collective-play-s20/wiki/Pairs-Assignment-Guidelines)
+      * Inspiration: [Entanglements](https://www.npr.org/programs/invisibilia/382451600/entanglement)
       * WebRTC Mirroring Example: [Code](https://editor.p5js.org/mimi/sketches/3rPfITEhi) | [Documentation](https://github.com/vanevery/p5LiveMedia)
       * Explore the phone sensors. [Scroll down to Events](https://p5js.org/reference/)
    * Post a link to your project here: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-6-pairs) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-6-pairs)
