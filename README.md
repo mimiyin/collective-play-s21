@@ -188,6 +188,7 @@
    * [Salvatore and Viktoria](https://www.youtube.com/watch?v=EPfAPwhFcmo&ab_channel=MariusMutin)
    * *Remote:*
       * Mirror Mirror
+      * [Why we get Zoom Fatigue](https://www.washingtonpost.com/lifestyle/2021/03/03/stanford-zoom-fatigue/)
       * [Miro](https://miro.com/app/board/o9J_lQDSoGo=/)
    * *In-Person:*
       * Human Ouija Board
