@@ -193,10 +193,6 @@
    * *In-Person:*
       * Synchronized Walking
 
-#### Examples
-   * *Remote:* Mirror
-   * *In-Person:* Human Ouija
-
 #### Assignment: Partnering
    * In groups of 2: Create a 5-minute experience for 2 people where they can connect through reticence, through intentional listening, through following rather than leading. Do you ever get to a point where you don't know who's leading and who's following?
       * [See guidelines for more details.](https://github.com/mimiyin/collective-play-s21/wiki/Guidelines-for-Pairs-Assignment)
