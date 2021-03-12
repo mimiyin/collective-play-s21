@@ -80,12 +80,12 @@
      * [p5.js and WebSockets Coding Train Videos](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
      * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
-   * Data you could send     
+#### Data you could send     
       * Mouse and keyboard [events](http://p5js.org/reference/#group-Events)
       * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
          * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
          * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
-         * [Pressure Sensor](https://editor.p5js.org/mimi/sketches/PY35i_8Yu)
+         * [Orientation](https://editor.p5js.org/mimi/sketches/ifnGfzLuA)
       * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
       * Camera and Microphone
          * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
