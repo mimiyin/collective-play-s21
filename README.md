@@ -191,15 +191,15 @@
       * [Why we get Zoom Fatigue](https://www.washingtonpost.com/lifestyle/2021/03/03/stanford-zoom-fatigue/)
       * [Miro](https://miro.com/app/board/o9J_lQDSoGo=/)
    * *In-Person:*
-      * Human Ouija Board
+      * Synchronized Walking
 
 #### Examples
    * *Remote:* Mirror
    * *In-Person:* Human Ouija
 
 #### Assignment: Partnering
-   * In groups of 2: Create an experience for 2 people where they can connect through reticence, through intentional listening, through following rather than leading. Do you ever get to a point where you don't know who's leading and who's following?
-      * [Questions to consider when designing your interaction.](https://github.com/mimiyin/collective-play-s20/wiki/Pairs-Assignment-Guidelines)
+   * In groups of 2: Create a 5-minute experience for 2 people where they can connect through reticence, through intentional listening, through following rather than leading. Do you ever get to a point where you don't know who's leading and who's following?
+      * [See guidelines for more details.](https://github.com/mimiyin/collective-play-s21/wiki/Guidelines-for-Pairs-Assignment)
       * Inspiration: [Entanglements](https://www.npr.org/programs/invisibilia/382451600/entanglement)
       * WebRTC Mirroring Example: [Code](https://editor.p5js.org/mimi/sketches/3rPfITEhi) | [Documentation](https://github.com/vanevery/p5LiveMedia)
       * Explore the phone sensors. [Scroll down to Events](https://p5js.org/reference/)
