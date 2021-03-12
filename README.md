@@ -81,17 +81,17 @@
      * Review JavaScript Objects | [Coding Train Video 2.3](https://www.youtube.com/watch?v=-e5h4IGKZRY)
 
 #### Data you could send     
-      * Mouse and keyboard [events](http://p5js.org/reference/#group-Events)
-      * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
-         * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
-         * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
-         * [Orientation](https://editor.p5js.org/mimi/sketches/ifnGfzLuA)
-      * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
-      * Camera and Microphone
-         * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
-         * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
-         * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
-         * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
+   * Mouse and keyboard [events](http://p5js.org/reference/#group-Events)
+   * Mobile device sensors | [p5 and Mobile](https://github.com/ITPNYU/ICM-2017#10----mobile)
+      * [Tilt to Position](https://editor.p5js.org/mimi/sketches/bQTB_I0vs)
+      * [Tilt and Shake](https://editor.p5js.org/mimi/sketches/LWKN7noUJ)
+      * [Orientation](https://editor.p5js.org/mimi/sketches/ifnGfzLuA)
+   * keyTyped() keyPressed() keyCode and key | [Code](https://editor.p5js.org/mimi/sketches/3yLggEeR2)
+   * Camera and Microphone
+      * [Mic-level](https://editor.p5js.org/mimi/sketches/3coWCiwKz)   
+      * [Color-tracking](https://editor.p5js.org/mimi/sketches/E9f0eRBgH)
+      * [Motion Sensing](https://editor.p5js.org/mimi/sketches/8NFrkv7Dj)
+      * Face-tracking with [clmtrackr](https://editor.p5js.org/mimi/sketches/Lqjs4u09x)
 
 #### Assignment: Sending Inputs
    * Post your assignments here: [Section 001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---001#week-2-hello-sockets) | [Section 002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments---002#week-2-hello-sockets)
