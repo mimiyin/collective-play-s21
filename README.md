@@ -209,11 +209,13 @@
    * What aspect of partnering does your project explore?
 
 ### Preview Queueing
-   * *Remote:* Show-and-Tell
-   * *In-Person:* The Wave
+   * *Remote:* Lip-Reading Telephone
+   * *In-Person:* The Wave, Zip Zap Zop
 
 #### Assignment
-   * Come up with at least 5 examples of situations where you have to wait in line. Come up with at least 1 variable of "waiting in line" situations. Don't repeat what's already on the list. [Throw them in this spreadsheet](https://docs.google.com/spreadsheets/d/115OVqXi_P8AKTPoDP0J5fjFofD37XJb8xgzBxlBiGAA/edit?usp=sharing). Be as specific as possible.
+   * Create a socket server that keeps tracks of all of the connected sockets in the order they connected. Remember to take into account disconnections as well. Post here: [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-7-hello-queueing)
+   * Come up with at least 5 examples of situations where you have to wait in line. Come up with at least 1 parameter of "waiting in line" situations. Don't repeat what's already on the list. Throw them in this spreadsheet. Be as specific as possible. [001](https://docs.google.com/spreadsheets/d/14OcAaLbNHuU8i2Gb3OPc6lWEzzzbTCJ1D-RD194boRY/edit?usp=sharing).
+   * *Section 002:* Print out the queueing example for class next week. There are 2 files, 2 pages each. [Download](https://drive.google.com/drive/folders/1annFK_fo9500cQWbATJ21U-fjC2bej7_?usp=sharing) Tape the 4 sheets together into A SINGLE GIANT SHEET OF PAPER so you have the server code on the left and the client code on the right. [It should look like this.](https://miro.com/app/board/o9J_lPL3-XA=/) Clear a surface that's big enough for this giant sheet of paper for class next week.
 
 ***
 

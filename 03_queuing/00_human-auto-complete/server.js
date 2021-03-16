@@ -12,10 +12,11 @@ app.use(express.static('public'));
 // Create socket connection
 let io = require('socket.io')(server);
 
-// Keep track of queue
-let queue = [];
-let q = -1;
-let current;
+// Keeping track of the queue
+let queue = []; // Queue of sockets
+let q = -1; // Index number of current socket in queue
+let current; // Current socket
+
 
 // Listen for individual clients to connect
 io.sockets.on('connection',

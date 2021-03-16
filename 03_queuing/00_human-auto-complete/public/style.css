@@ -1,7 +1,8 @@
 body {
-  margin : 0px
+  margin : 20px
 }
 
-.disabled {
-  opacity: 0.1;
+p {
+  font-family: Arial;
+  font-size: 2em;
 }
