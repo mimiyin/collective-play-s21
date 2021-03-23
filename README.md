@@ -233,7 +233,8 @@
    * Different ways to form a line
 
 #### Assignment
-   * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001]() | [002]()
+   * Diagram the queuing example. Post here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#mini-assignment-diagram-the-queuing-example)
+   * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#post-a-link-to-your-draft-project)
    * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s20/wiki/Parameters-of-Queues) you're exploring.
 
 ## Week 9: Play-test Draft of Queuing
