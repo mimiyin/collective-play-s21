@@ -208,14 +208,14 @@
 
    * What aspect of partnering does your project explore?
 
-### Preview Queueing
+### Preview Queuing
    * *Remote:* Lip-Reading Telephone
    * *In-Person:* The Wave, Zip Zap Zop
 
 #### Assignment
-   * Create a socket server that keeps tracks of all of the connected sockets in the order they connected. Remember to take into account disconnections as well. Post here: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-7-hello-queueing) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-7-hello-queueing)
+   * Create a socket server that keeps tracks of all of the connected sockets in the order they connected. Remember to take into account disconnections as well. Post here: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-7-hello-Queuing) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-7-hello-Queuing)
    * Come up with at least 5 examples of situations where you have to wait in line. Come up with at least 1 parameter of "waiting in line" situations. Don't repeat what's already on the list. Throw them in this spreadsheet. Be as specific as possible. [001](https://docs.google.com/spreadsheets/d/135EC3IqDh-bO7r70fYMwUJvHs2SyeIjX_0O_ph6RnfI/edit?usp=sharing) | [002](https://docs.google.com/spreadsheets/d/14OcAaLbNHuU8i2Gb3OPc6lWEzzzbTCJ1D-RD194boRY/edit?usp=sharing).
-   * *Section 002:* Print out the queueing example for class next week. There are 2 files, 2 pages each. [Download](https://drive.google.com/drive/folders/1annFK_fo9500cQWbATJ21U-fjC2bej7_?usp=sharing) Tape the 4 sheets together into A SINGLE GIANT SHEET OF PAPER so you have the server code on the left and the client code on the right. [It should look like this.](https://miro.com/app/board/o9J_lPL3-XA=/) Clear a surface that's big enough for this giant sheet of paper for class next week.
+   * *Section 002:* Print out the Queuing example for class next week. There are 2 files, 2 pages each. [Download](https://drive.google.com/drive/folders/1annFK_fo9500cQWbATJ21U-fjC2bej7_?usp=sharing) Tape the 4 sheets together into A SINGLE GIANT SHEET OF PAPER so you have the server code on the left and the client code on the right. [It should look like this.](https://miro.com/app/board/o9J_lPL3-XA=/) Clear a surface that's big enough for this giant sheet of paper for class next week.
 
 ***
 
@@ -224,57 +224,56 @@
 ## Week 8: Waiting versus Anticipating
 
 #### Question(s)
-   * What's the difference between waiting and anticipating?
+   * What are the emotional states of waiting?
    * What's the difference between taking turns and having a conversation?
 
 #### In-Class
-   * *Remote:* Spin the Bottle (modified)
-   * *In-Person:* Zip Zap Zop
+   * *Remote:* Spin the Bottle
+   * *In-Person:* Spin the Bottle (modified)
    * Different ways to form a line
-   * Play-test Dear Jordan
 
 #### Assignment
-   * Groups 4: Make a queuing project for at least 5 people. Prepare your instructions for the play-test. | [Post links here](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-6-queues)
+   * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001]() | [002]()
    * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s20/wiki/Parameters-of-Queues) you're exploring.
 
-## Week 9: Play-test Queueing
+## Week 9: Play-test Draft of Queuing
+  * Play-test and workshop your queuing project.
+  * In-class coding exercise: Add a conductor to manage the queue.
+
+#### Assignment
+  * Prepare to play-test your queuing project. The entire class will participate. Aim for 10 minutes. [Post links here]()
+
+## Week 10: Play-test Queuing
 
 ### Preview Group Effort
-   * *Remote:*
-      * Where's Waldo
-      * The Cocktail Party.
-   * *In-Person:*
-      * Standing up together.
-      * Formations.
+   * United We Stand, Divided We Fall
 
 #### Assignment
    * [Groupthink](https://www.newyorker.com/magazine/2012/01/30/groupthink)
-   * [The Lottery](https://www.newyorker.com/magazine/1948/06/26/the-lottery)
    * Fill out (in)visible worksheet. (I will send out link after class.)
 
 ***
 
 # Design Strategy 4: Group Effort
 
-## Week 10: Losing the Individual to the Group
+## Week 11: Losing the Individual to the Group
 
 #### Questions
    * When are you seen?
 
 #### In-Class
+   * The Cocktail Party
    * Discuss (in)visible.
    * Discuss readings.
-   * Play-test "All shall be revealed in the fullness of time."
 
 #### Assignment for next week
    * Partner up for the final. (Link to spreadsheet coming.)
-   * Prepare a short activity to try in class. [Post instructions by Monday evening here.](https://github.com/mimiyin/collective-play-s20/wiki/Assignments#week-9-presentation-and-play-test)
+   * Prepare a 10 minute analog activity to try in class. [Post instructions here.]()
 
 ***
 
-## Weeks 11-14: Final Project Development
-   * Week 11 Present research questions and proposals for "analog experiments"
-   * Week 12 Present results of "analog experiments"
+## Weeks 12-14: Final Project Development
+   * Week 12 Play-test "analog experiments"
    * Week 13 1st round of in-class play-testing
    * Week 14 2nd round of in-class play-testing
 
