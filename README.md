@@ -209,7 +209,6 @@
    * What aspect of partnering does your project explore?
 
 ### Preview Queuing
-   * *Remote:* Lip-Reading Telephone
    * *In-Person:* The Wave, Zip Zap Zop
 
 #### Assignment
@@ -228,14 +227,14 @@
    * What's the difference between taking turns and having a conversation?
 
 #### In-Class
-   * *Remote:* Spin the Bottle
-   * *In-Person:* Spin the Bottle (modified)
+   * *Remote:* Telephone
+   * *In-Person:* Telephone
    * Different ways to form a line
 
 #### Assignment
-   * Diagram the queuing example. Post here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#mini-assignment-diagram-the-queuing-example)
+   * Finish the data-flow diagramming on your own.
    * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#post-a-link-to-your-draft-project)
-   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s20/wiki/Parameters-of-Queues) you're exploring.
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-8-queuing-draft) you're exploring.
 
 ## Week 9: Play-test Draft of Queuing
   * Play-test and workshop your queuing project.
