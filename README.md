@@ -234,7 +234,7 @@
 #### Assignment
    * Finish the data-flow diagramming on your own.
    * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#post-a-link-to-your-draft-project)
-   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-8-queuing-draft) you're exploring.
+   * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s21/wiki/Parameters-Of-Waiting-In-A-Line) you're exploring.
 
 ## Week 9: Play-test Draft of Queuing
   * Play-test and workshop your queuing project.
