@@ -231,6 +231,9 @@
    * *In-Person:* Telephone
    * Different ways to form a line
 
+#### Technical Tutorial
+   * [Keeping track of sockets in order](https://glitch.com/edit/#!/keeping-socket-order?path=public%2Fsketch.js%3A31%3A24)
+
 #### Assignment
    * Finish the data-flow diagramming on your own.
    * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#post-a-link-to-your-draft-project)
