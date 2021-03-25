@@ -227,16 +227,17 @@
    * What's the difference between taking turns and having a conversation?
 
 #### In-Class
-   * *Remote:* Telephone
-   * *In-Person:* Telephone
-   * Different ways to form a line
+   * *Remote:* Physical Telephone
+   * *In-Person:* Tallest to smallest.
+   * Linear Smalltalk!
+   * [Hermit Crab Line-up!](https://www.youtube.com/watch?v=zpjklLt1qWk&ab_channel=BBCEarthKids)
 
 #### Technical Tutorial
    * [Keeping track of sockets in order](https://glitch.com/edit/#!/keeping-socket-order?path=public%2Fsketch.js%3A31%3A24)
 
 #### Assignment
    * Finish the data-flow diagramming on your own.
-   * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#post-a-link-to-your-draft-project)
+   * Groups 4: Prepare a draft of your queuing project for half the class. Prepare your instructions for the play-test. | Post here: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-8-queuing-draft) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#post-a-link-to-your-draft-project)
    * Be clear about which [dynamics of waiting for your turn](https://github.com/mimiyin/collective-play-s21/wiki/Parameters-Of-Waiting-In-A-Line) you're exploring.
 
 ## Week 9: Play-test Draft of Queuing
