@@ -242,10 +242,10 @@
 
 ## Week 9: Play-test Draft of Queuing
   * Play-test and workshop your queuing project.
-  * In-class coding exercise: Add a conductor to manage the queue.
+  * In-class coding exercise: Add a conductor to manage the queue. [Code](https://glitch.com/edit/#!/conductor-cues-inputs?path=server.js%3A73%3A29)
 
 #### Assignment
-  * Prepare to play-test your queuing project. The entire class will participate. Aim for 10 minutes. [Post links here]()
+  * Prepare to play-test your queuing project. The entire class will participate. Aim for 10 minutes. Post project link and instructions: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-9-queuing) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-9-queuing)
 
 ## Week 10: Play-test Queuing
 
