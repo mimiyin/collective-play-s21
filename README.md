@@ -248,9 +248,7 @@
   * Prepare to play-test your queuing project. The entire class will participate. Aim for 10 minutes. Post project link and instructions: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-9-queuing) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-9-queuing)
 
 ## Week 10: Play-test Queuing
-
-### Preview Group Effort
-   * United We Stand, Divided We Fall
+   * [002 Miro Board](https://miro.com/app/board/o9J_lL4eC1g=/)
 
 #### Assignment
    * [Groupthink](https://www.newyorker.com/magazine/2012/01/30/groupthink)
@@ -261,6 +259,8 @@
 # Design Strategy 4: Group Effort
 
 ## Week 11: Losing the Individual to the Group
+
+   * United We Stand, Divided We Fall
 
 #### Questions
    * When are you seen?
