@@ -251,7 +251,7 @@
    * [002 Miro Board](https://miro.com/app/board/o9J_lL4eC1g=/)
 
 #### Assignment
-   * [Groupthink](https://www.newyorker.com/magazine/2012/01/30/groupthink)
+   * [Groupthink](https://drive.google.com/file/d/1Q_AIsrLafMveXW5CXn_7OeHMrQQjFahj/view?usp=sharing)
    * Fill out (in)visible worksheet. (I will send out link after class.)
 
 ***
