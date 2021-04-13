@@ -260,19 +260,18 @@
 
 ## Week 11: Losing the Individual to the Group
 
-   * United We Stand, Divided We Fall
-
 #### Questions
    * When are you seen?
 
 #### In-Class
-   * The Cocktail Party
+   * What makes for a good collaboration? Miro: [002](https://miro.com/app/board/o9J_lKHaQz4=/)
    * Discuss (in)visible.
-   * Discuss readings.
+   * 002: [Displaced](https://vimeo.com/478698780)
 
 #### Assignment for next week
    * Partner up for the final. (Link to spreadsheet coming.)
-   * Prepare a 10 minute analog activity to try in class. [Post instructions here.]()
+   * Meet with your group to talk through [The Prompt for the Final Project](https://github.com/mimiyin/collective-play-s21/wiki/Final-Project-Questions)
+   * Individually come up with 3 ideas for analog interactions to play-test in class next week. Each person should write-up their instructions in a separate blog post.You will have time to meet in class to decide what you will test. Post your ideas: [002]](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-11)
 
 ***
 
