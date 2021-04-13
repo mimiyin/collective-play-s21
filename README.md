@@ -271,7 +271,7 @@
 #### Assignment for next week
    * Partner up for the final. (Link to spreadsheet coming.)
    * Meet with your group to talk through [The Prompt for the Final Project](https://github.com/mimiyin/collective-play-s21/wiki/Final-Project-Questions)
-   * Individually come up with 3 ideas for analog interactions to play-test in class next week. Each person should write-up their instructions in a separate blog post.You will have time to meet in class to decide what you will test. Post your ideas: [002]](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-11)
+   * Individually come up with 3 ideas for analog interactions to play-test in class next week. Each person should write-up their instructions in a separate blog post.You will have time to meet in class to decide what you will test. Post your ideas: [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-11)
 
 ***
 
