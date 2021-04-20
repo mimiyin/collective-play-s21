@@ -283,7 +283,7 @@
 ## Week 12 Play-test "analog experiments"
    * [10-Meter Tower](https://www.youtube.com/watch?v=5QMlIjSnt_E&ab_channel=TheNewYorkTimes)
    * [Milgram's Experiment](https://www.wnycstudios.org/podcasts/radiolab/episodes/180092-the-bad-show): 11:15 to 24:00
-   * [Miro]: [002](https://miro.com/app/board/o9J_lIkgANU=/)
+   * Miro: [002](https://miro.com/app/board/o9J_lIkgANU=/)
    * [Stand Still Together](https://glitch.com/edit/#!/unmute-button?path=README.md%3A1%3A0)
 #### Assignment for next week
    * Prepare a first draft of your final project to play-test.
