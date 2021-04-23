@@ -283,11 +283,11 @@
 ## Week 12 Play-test "analog experiments"
    * [10-Meter Tower](https://www.youtube.com/watch?v=5QMlIjSnt_E&ab_channel=TheNewYorkTimes)
    * [Milgram's Experiment](https://www.wnycstudios.org/podcasts/radiolab/episodes/180092-the-bad-show): 11:15 to 24:00
-   * Miro: [002](https://miro.com/app/board/o9J_lIkgANU=/)
+   * Miro: [001](https://miro.com/app/board/o9J_lIIX9ZU=/) | [002](https://miro.com/app/board/o9J_lIkgANU=/)
    * Stand Still Together: [Code](https://glitch.com/edit/#!/unmute-button?path=README.md%3A1%3A0)
 #### Assignment for next week
    * Prepare a first draft of your final project to play-test.
-   * Post links here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-12)
+   * Post links here: [001](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--001#week-12) | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#week-12)
       * Write-up the exact wording of your invitation. How are you asking for participation? Is a plea, a dry request, a demand, a command, a challenge, a dare? Does how you ask change over the course of the interaction like in Migram's Experiment? (e.g. 1. Continue please. 2. The experiment requires that you continue. 3. It’s absolutely essential that you continue. 4. You have no other choice.
       * Answer the question: "What are you trying to learn about people?"
       * Your code on glitch.com (even if it's not completely working yet).
