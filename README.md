@@ -293,6 +293,11 @@
       * Your code on glitch.com (even if it's not completely working yet).
 
 ## Week 13 1st round of in-class play-testing
+
+#### Assignment for next week
+   * Figure out your set-up: [What to think about.](https://github.com/mimiyin/collective-play-s21/wiki/Final-Project-Questions#logistics-questions)
+   * Post links here: [001]() | [002](https://github.com/mimiyin/collective-play-s21/wiki/Assignments--002#final-project)
+
 ## Week 14 2nd round of in-class play-testing
 
 ***
